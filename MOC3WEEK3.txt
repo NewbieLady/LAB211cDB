@@ -1,0 +1,8 @@
+Does your map display dozens of earthquake markers, with different colors and sizes indicating the strength of each earthquake that seem to make sense?|Yes
+Does your map display a key that shows an explanation of each type of earthquake marker, and is that key neatly organized, such as in the image below?|Yes
+Which class do you create objects of to display the earthquake "dots" on the map?|SimplePointMarker
+Assume you have a SimplePointMarker stored in the variable marker. Which of the following lines of code will set that marker's color to red?|1 marker.setColor(color(255, 0, 0));
+How many different SimplePointMarker objects does your program create when you run it?|One for each PointFeature in earthquakes
+What was the most difficult or confusing part of this assignment for you? If more than one was difficult, select what you felt was the most difficult.|Figuring out the names of the built-in classes and methods and how to use them.
+(REQUIRED) If you said "Something else not listed above" on the last question, please explain what the most difficult part was. Otherwise just write "N/A" in the box.|N/A
+(REQUIRED) How long, total, did you spend on this programming assignment, to the nearest hour? Include only the time you were actively working on the programming assignment including time you spent watching support videos or re-watching videos specifically because you needed help on the assignment.|I THINK ALMOST MORE THAN 5 HOURS

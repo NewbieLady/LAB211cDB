@@ -1,0 +1,7 @@
+What will be printed by the following code? Of course, you can run this code and get the question right, but we want you to answer this question (and all of these questions) without running the code. 1 2 3 4 5 6 7 String s1 = new String("String 1"); String s2 = "String 1"; if (s1 == s2) { System.out.println("Equal"); else { System.out.println("Not equal"); }|Not equal
+What best describes the functionality of the following method? 1 2 3 4 5 6 7 8 9 10 11 12 public int mystery(String s) { char[] letters = s.toCharArray(); int x = 0; for (int i = 0; i < letters.length; i++) { if (letters[i] == ' ') { letters[i] = '_'; x++; } } return x; }|It counts the number of spaces in a given string, and returns the count. It does not change the original String.
+Which of the following lines of code correctly assign a String containing the text "My String" to the variable 'text'? (Select all correct options.)|1 2 String s1 = "My String"; String text = s1;$1 2 3 String text = "My "; String s2 = "String"; text = text + s2;
+Does a higher or lower Flesch Index Score indicate simpler text?|The higher the Flesch Index Score, the simpler the text and the easier it is to read.
+How much time did you spend on the programming assignment?|4-5 hours
+How difficult did you find the programming assignment?|Difficult
+How much did you enjoy the programming assignment?|I did nost enjoy the programming assignment

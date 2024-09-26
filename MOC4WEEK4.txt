@@ -1,0 +1,9 @@
+How much time did it take to complete the MyLinkedList project (both implementation and tester)?|4-5 hours
+How difficult would you rate the MyLinkedList assignment relative to other programming projects you've done (in and outside this course)?|Difficult
+Did you enjoy the MyLinkedList programming assignment?|I did not enjoy the programming assignment
+Please tell us, in 1-2 sentences, what was the trickiest part for you about the MyLinkedList assignment (including either implementation or testing).|awdsad
+Did you do the optional Markov Text Generation Project?|Yes, and I got it working!
+How long did you work on the Markov Text Generator Extension?|3-4 hours
+How difficult would you rate the Markov Text Generator extension relative to other programming projects you've done (in and outside this course)?|Hard
+Did you enjoy the programming assignment on Markov Text Generation|I did not enjoy the programming assignment.
+Please tell us, in 1-2 sentences, what was the trickiest part for you about the Markov Text Generator extension (including either implementation or testing).|wadadw

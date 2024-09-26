@@ -1,0 +1,10 @@
+Which of the following structures are trees? Select all that apply.|0.30757905211534553$0.11582124693956797$0.415066470396243
+Which of the following are Binary Search Trees? Select all that apply.|0.1987851226772681$0.37551530536694366
+Which of the following statements are true about the following binary search tree? Select all that apply. Assume that no nodes have been deleted from this tree.|42 must have been inserted first.$A different insertion order with the same values could give a different tree structure.
+Which of the following statements are true about the running time of binary search trees? Assume that when we use big-O notation we mean the tightest big-O bound. Select all that apply.|The tightest possible worst case time to find an element in an arbitrary BST is O(n)$The tightest possible worst case time to find an element in a balanced BST is O(log(n))$Inserting sorted data into an unbalanced BST leads to the worst case BST structure (i.e. a structure where finding an element will take the longest).
+From your benchmarking of the DictionaryLL and DictionaryBST structures you implemented, which structure is the better choice?|DictionaryBST
+In your benchmarking of the DictionaryBST structure, you probably found that the time to find words did not significantly increase as the Dictionary got larger. Which of the following is the most likely reason for this behavior?|log(n) is sufficiently small and grows sufficiently slowly that other factors (e.g. memory use) had a bigger effect on the running time than the size to find the word in the dictionary.
+Did you do the optional extension in the programming assignment to take case into account when spell checking/doing auto complete.|Yes, and I got it working
+How much time did you spend on the programming assignment this week?|4-5 hours
+How difficult was the programming assignment for this week?|Difficult
+How much did you enjoy the programming assignment for this week?|I did not enjoy the assignment this week.

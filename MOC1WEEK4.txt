@@ -1,0 +1,6 @@
+Which of the following will you learn in this course? Select all that apply.|The difference between an abstract data type (ADT) and its implementation.$How to analyze the performance of code, both using Big-O notation and through benchmarking experiments.$How to implement the LinkedList data structure.$How to test your code using the JUnit framework.
+True or False: We recommend you take a linear path through this course, watching each resource in the order in which it occurs.|True
+True or False: The Document class is an abstract class.|True
+Which of the following is a correct statement about the class hierarchy in the starter code:|Both BasicDocument and EfficientDocument are subclasses of Document
+Which method in the Document class is called when the user of the MainApp (the text application) clicks the Flesch Index button?|getFleschScore()
+Have you worked with Strings in Java before?|Yes, extensively

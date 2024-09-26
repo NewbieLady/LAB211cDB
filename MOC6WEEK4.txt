@@ -1,0 +1,12 @@
+Which of the following is a reason why hash tables are a good choice for storing and retrieving data?|They are very fast in practice for finding items in a set
+What is a "collision" in a hash table?|When the hash function for two different items returns the same value (i.e., h(x) == h(y) for x!=y)
+Which of the following is true of searching for an element in a Hash Table that is implemented using linear probing (you may assume a Hash Table that is ~70% full)?|Average case is O(1)
+When a hash table becomes too full, which of the following is required to resize the table?|Create a new table which is larger than the original table. Then individually reinsert each key from the old table into the new table (i.e. if a key is in location X in the original table, it may or may not be in position X in the new table).
+In the algorithm for spelling suggestions in this week's assignment, there was a hash set to mark Strings as visited. What is the BEST ANSWER for why we used the visited set?|To avoid exploring all the possible String mutations for an individual String more than once.
+Which of these is an invalid word path (assume all words below are valid dictionary words)?|From shy to chime: shy -> she -> he -> hide -> chide -> chime
+How much time did you spend on the programming project this week (include time spent on the optional WordPath assignment if you did it)?|3-4 hours
+How difficult did you find the project this week?|Difficult
+Thinking of this COURSE OVERALL. Which assignment did you enjoy the most?|Week 1: Flesch Score
+Thinking of this COURSE OVERALL. Which assignment are you most proud of completing?|Week 1: Flesch Score
+What is the one thing you liked most about this course?|wadasd
+What is the one thing you would have liked to see changed about this course?|adwadwaddw
